@@ -12,7 +12,7 @@ Visual Studio Code
     <li>The process of handling these exceptions is known as exception handling. </li> 
     <li>Using the exception handling mechanism, the control from one part of the program where the exception occurred can be transferred to another part of the 
    code.</li>
-    <li>It can be done using three keywords: <ol><li>try-The try keyword represents a block of code that may throw an exception placed inside the try block. It’s followed by one or more catch blocks. If an exception occurs, try block throws that exception.</li><li>catch-The catch statement represents a block of code that is executed when a particular exception is thrown from the try block. The code to handle the exception is written inside the catch block.</li><li>throw</li></ol></li>
+    <li>It can be done using three keywords: <ol><li>try - The try keyword represents a block of code that may throw an exception placed inside the try block. It’s followed by one or more catch blocks. If an exception occurs, try block throws that exception.</li><li>catch - The catch statement represents a block of code that is executed when a particular exception is thrown from the try block. The code to handle the exception is written inside the catch block.</li><li>throw - An exception in C++ can be thrown using the throw keyword. When a program encounters a throw statement, then it immediately terminates the current function and starts finding a matching catch block to handle the thrown exception.</li></ol></li>
 </ul>
 
 #### Code 
