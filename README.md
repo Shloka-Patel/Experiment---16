@@ -77,7 +77,7 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---16/blob/main/Output_16A.png) 
 
 (B) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---16/blob/main/Output_16B.png) 
 
 #### Conclusion 
 
