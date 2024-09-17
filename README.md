@@ -12,6 +12,7 @@ Visual Studio Code
     <li>The process of handling these exceptions is known as exception handling. </li> 
     <li>Using the exception handling mechanism, the control from one part of the program where the exception occurred can be transferred to another part of the 
    code.</li>
+    <li>It can be done using three keywords: <ol><li>try</li><li>catch</li><li>throw</li></ol></li>
 </ul>
 
 #### Code 
