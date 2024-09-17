@@ -7,6 +7,12 @@ To study and implement Exception Handling in C++.
 Visual Studio Code 
 
 #### Theory 
+<ul>
+    <li>In C++ exceptions are runtime anomalies or abnormal conditions that a program encounters durig its execution. </li>
+    <li>The process of handling these exceptions is known as exception handling. </li> 
+    <li>Using the exception handling mechanism, the control from one part of the program where the exception occurred can be transferred to another part of the 
+   code.</li>
+</ul>
 
 #### Code 
 
